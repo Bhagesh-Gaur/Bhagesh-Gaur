@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhageshIIITD
+- 👋 Hi, I’m Bhagesh Gaur
 - 👀 I’m interested in Quantum Computation, Quantum Machine Learning and Classical Machine Learning.
 - 🌱 I’m currently learning about NAS on Quantum Circuits.
 - 📫 How to reach me: Ping me on [Telegram][1].

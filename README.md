@@ -4,7 +4,7 @@
 - 📫 How to reach me: Ping me on [Telegram][1].
 
 [1]: https://t.me/SlyCop/ "Telegram" 
-[2]: (https://iiitd.ac.in/)
+[2]: https://iiitd.ac.in/
 
 <!---
 BhageshIIITD/BhageshIIITD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

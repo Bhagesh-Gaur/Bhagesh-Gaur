@@ -5,7 +5,6 @@
 
 [1]: https://t.me/SlyCop/ "Telegram" 
 [2]: (https://iiitd.ac.in/)
-![Github stats](https://github-readme-stats.vercel.app/api?username=BhageshIIITD&show_icons=true&theme=prussian)
 
 <!---
 BhageshIIITD/BhageshIIITD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhagesh Gaur
 - 👀 I’m interested in Quantum Computation, Quantum Machine Learning and Classical Machine Learning.
-- 🌱 I’m currently learning about NAS on Quantum Circuits.
+- 🌱 I’m currently working on Neural Architectural Search on Quantum Circuits.
 - 📫 How to reach me: Ping me on [Telegram][1].
 
 [1]: https://t.me/SlyCop/ "Telegram" 

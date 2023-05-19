@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Bhagesh Gaur. I'm a junior at [IIITD][2].
-- 👀 I’m interested in Quantum Computing, QML, Computer Vision, Deep Learning, HCI and Affective Computing.
-- 🌱 I’m currently working on Computer Vision and Deep Learning project with ExtraMarks Pvt. Ltd. and learning about Neural Architectural Search on Quantum Circuits and Quantum Random Number Generators(QRNGs).
+- 👋 Hi, I’m Bhagesh Gaur. I'm a senior at [IIITD][2].
+- 👀 I’m interested in Deep Learning, Computer Vision, HCI, Quantum Computing and Affective Computing.
+- 🌱 I’m currently working as Data Science intern @Atlassian in IT Product Analystics team.
 - 📫 How to reach me: Ping me on [Telegram][1], [LinkTree][3].
 
 [1]: https://t.me/SlyCop/ "Telegram" 

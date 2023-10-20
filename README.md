@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhagesh Gaur. I'm a senior at [IIITD][2].
-- 👀 I’m interested in Data Science, Deep Learning, Computer Vision, HCI, Quantum Computing and Affective Computing.
+- 👀 I’m interested in Full-Stack Development, Deep Learning, Data Science, Computer Vision, HCI, Quantum Computing and Affective Computing.
 - 🌱 I’m currently working as Data Science intern @Atlassian in the IT Product Analystics team.
 - 📫 How to reach me: Ping me on [Telegram][1], [LinkTree][3].
 
